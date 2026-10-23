@@ -1,0 +1,19 @@
+{
+  "name": "lawminister-ai",
+  "ticker": "LAWM",
+  "title": "LawMinister AI",
+  "tools": [
+    {
+      "name": "evaluate_pro_poor_legislation",
+      "description": "Analyzes proposed laws for poverty alleviation and socio-economic impact"
+    },
+    {
+      "name": "scan_undertrial_bail_eligibility",
+      "description": "Scans prison court dockets to auto-generate statutory bail petitions"
+    },
+    {
+      "name": "dispatch_pro_bono_advocate_escrow",
+      "description": "Escrows and settles pro-bono defense counsel fees via X402 Bazaar"
+    }
+  ]
+}
